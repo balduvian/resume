@@ -1,6 +1,6 @@
 # Resume
 
-[Resume](./out/resume.pdf)
+[Resume](https://github.com/balduvian/resume/releases/download/v0.0.0/resume.pdf)
 
 ## Installation
 

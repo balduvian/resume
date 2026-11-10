@@ -1,0 +1,4 @@
+/_aux/**/*
+/out/**/*
+/build/**/*
+!out/resume.pdf

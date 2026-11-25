@@ -1,6 +1,6 @@
 # Resume
 
-[Resume](https://github.com/balduvian/resume/releases/download/v0.0.1/resume.pdf)
+[Resume](https://github.com/balduvian/resume/releases/download/v0.1.0/resume.pdf)
 
 ## Installation
 
@@ -8,11 +8,9 @@ This project is built on Windows.
 
 This project uses [TeX Live](https://www.tug.org/texlive).
 
-This project uses [InkScape](https://inkscape.org/release/inkscape-1.4.2/windows/64-bit/msi/dl/). After installation, you must put `inkscape` on `PATH`.
-
 ## Building
 
-Run `.\build.ps1` in Powershell.
+Run [`.\build.ps1`](./build.ps1) in Powershell.
 
 The built PDF is found in [`/out/resume.pdf`](./out/resume.pdf).
 
